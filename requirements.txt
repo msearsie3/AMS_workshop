@@ -1,11 +1,12 @@
-numpy
-pandas
-matplotlib
-cartopy
+numpy == 1.24.3
+pandas == 2.0.2
+matplotlib == 3.7.1
+Cartopy == 0.21.1
 datetime
-xarray
-requests
-netCDF4
+xarray == 2023.5.0
+requests == 2.31.0
+netCDF4 == 1.6.4
 
-s3fs
+s3fs == 2023.6.0
 google
+azure-storage-blob == 12.16.0
