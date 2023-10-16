@@ -9,4 +9,4 @@ netCDF4 == 1.6.4
 s3fs == 2023.1.0
 google
 azure-storage-blob == 12.16.0
-cartopy
+cartopy == 20.0.0
