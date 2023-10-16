@@ -9,4 +9,3 @@ netCDF4
 
 s3fs
 google
-azure.storage.blob
