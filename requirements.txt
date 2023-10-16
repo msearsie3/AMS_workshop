@@ -1,5 +1,5 @@
 numpy
-Cartopy 19.0.0
+Cartopy 13
 pandas == 1.3.5
 matplotlib == 3.5.3
 datetime
