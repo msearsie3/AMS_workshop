@@ -11,6 +11,7 @@ h5py == 3.10.0
 
 s3fs == 2023.1.0
 google == 3.0.0
-google.cloud
-gcloud
+#google.cloud
+#gcloud
+google.cloud.storage
 azure-storage-blob == 12.16.0
